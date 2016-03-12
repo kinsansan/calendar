@@ -1,0 +1,31 @@
+header{
+    background-color:red;
+    padding:5px;
+}
+.main{
+    border:1px solid black;
+}
+.time{
+    height:50px;
+    border:1px solid black;
+    text-align: right;
+    vertical-align: top;
+}
+.day{
+    background-color:indianred;
+    padding:5px;
+    border:1px solid black;
+}
+.all td{
+    width:150px;
+    border:1px solid black;
+    text-align: center;
+    overflow:hidden;
+}
+.box{
+    border:1px solid black;
+    opacity: 0.7;
+    position:absolute;
+    width:152px;
+    background-color:darkred;
+}
